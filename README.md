@@ -8,13 +8,13 @@
 
 ex) 
 
-  1. MainActivity - A,B,C 버튼 생성
+  1) MainActivity - A,B,C 버튼 생성
       - A버튼 클릭 시 AActivity로 이동
       - B버튼 클릭 시 BActivity로 이동
       - C버튼 클릭 시 CActivity로 이동
-  2. AActivity - 뒤로 가기 버튼 생성 → 클릭 시 MainActivity로 이동
-  3. BActivity - 뒤로 가기 버튼 생성 → 클릭 시 MainActivity로 이동
-  4. CActivity - 뒤로 가기 버튼 생성 → 클릭 시 MainActivity로 이동
+  2) AActivity - 뒤로 가기 버튼 생성 → 클릭 시 MainActivity로 이동
+  3) BActivity - 뒤로 가기 버튼 생성 → 클릭 시 MainActivity로 이동
+  4) CActivity - 뒤로 가기 버튼 생성 → 클릭 시 MainActivity로 이동
 
 3. 조건 : 액티비티 간 Intent로 연결할 것.
 
