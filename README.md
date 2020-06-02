@@ -1,6 +1,19 @@
 # LOOKIE_FRONT_2020
 2020 LOOKIE FRONT STUDY
 -
+### Week4. 안드로이드 Fragment 실습
+
+1. 패스트 캠퍼스 05 Essential 24강까지 수강
+2. MainActivity에서 버튼 제어로 연결된 Fragment 띄우기 기능 구현하기
+    - 버튼 최소 4개 → fragment 4개 구현
+    - 4개의 fragment 디자인 다 다를게 할 것.
+
+3. 파일 풀리퀘스트/ issue에 빌드된 화면을 캡쳐해서 올리기
+
+- 4주차까지 과제하시느라 수고 많으셨습니다.
+- 5번째 과제는 시험이 끝난 후 공지해드릴 예정입니다.
+- 시험 공부 화이팅 하시고 좋은 결과 얻으시길 바랍니다!
+
 ### Week3. 안드로이드 액티비티 및 Intent 실습
 
 1. 05 Essential 수강 19강까지 수강
