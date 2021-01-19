@@ -1,0 +1,2 @@
+rootProject.name='Soojin Timeline'
+include ':app'
